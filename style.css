@@ -5,3 +5,11 @@
 #slide-2 {
 	background-color: #151818;
 }
+
+#slide-5 img {
+	max-width: 700px;
+}
+
+#slide-6 img {
+	max-width: 600px;
+}

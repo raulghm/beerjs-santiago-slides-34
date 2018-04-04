@@ -19,9 +19,21 @@ theme: juanbrujo/cleaver-beerjs
 
 --
 
+# http://www.beerjs.cl/valdivia
+
+<img src="http://www.chileviaje.cl/wp-content/uploads/2017/03/valdivia.jpg" alt="">
+
+--
+
 # 🤔
 <img src="https://user-images.githubusercontent.com/19409/31321658-f6aed0f2-ac3d-11e7-8100-1587e676e0ec.png" alt="parcel">
 ## https://github.com/parcel-bundler/parcel ⭐️ 21.069
+
+--
+
+# Webpack en el 2018
+
+<img src="https://vayvala.files.wordpress.com/2016/01/angry-computer-meme-17.gif" alt="">
 
 --
 
@@ -42,7 +54,7 @@ theme: juanbrujo/cleaver-beerjs
 * Containing 1726 modules, 6.5M uncompressed.
 * Built on a 2016 MacBook Pro with 4 physical CPUs.
 
-<img src="img/bench.jpg" alt="">
+<img src="https://cdn-images-1.medium.com/max/800/1*t8afejIByMpoZKSs-URTIQ.png" alt="">
 
 --
 
@@ -100,7 +112,7 @@ http://localhost:1234
 * 🖖 Zero config Vue support (.vue components)
 * 💰 Content hashed bundle names for long-term caching
 * 🕵️ Faster resolver supporting aliases, absolute and tilde paths. `/path` `~/src/path`
-* 🧙‍ Automagically install missing dependencies in your code. `import mutable from mutable`
+* 🕵 Automagically install missing dependencies in your code. `import mutable from mutable`
 * 🐶 Pug and Jade support
 * 🚨 HMR error overlay
 
