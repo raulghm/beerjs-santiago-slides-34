@@ -83,7 +83,7 @@ yarn global add parcel-bundler
 
 --
 
-# 3️⃣  Start
+# 3️⃣  Start developmennt
 
 ```
 parcel index.html
@@ -95,6 +95,24 @@ parcel index.html
 
 ```
 http://localhost:1234
+```
+
+--
+
+# 3️⃣  Build for production
+
+```
+parcel build index.html
+```
+
+--
+
+# Other commands ✨
+
+```
+parcel serve index.html
+parcel watch index.html
+parcel help
 ```
 
 --
@@ -174,6 +192,14 @@ BEER=JS
 ```
 process.env.BEER
 ```
+
+--
+
+# Recursos
+
+* https://parceljs.org
+* https://github.com/raulghm/vue-parcel
+
 --
 
 # Gracias ❤️
