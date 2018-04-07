@@ -19,11 +19,13 @@ theme: juanbrujo/cleaver-beerjs
 
 --
 
-# http://www.beerjs.cl/valdivia
+# [beerjs.cl/valdivia](http://beerjs.cl/valdivia)
 
-<img src="http://www.chileviaje.cl/wp-content/uploads/2017/03/valdivia.jpg" alt="">
+<img src="http://www.chileviaje.cl/wp-content/uploads/2017/03/valdivia.jpg" alt="valdivia">
 
 --
+
+# Rayün
 
 <img src="https://lh3.googleusercontent.com/4TsoWBo6zNmqxKkDcPk9uqQpj7BO_KwksAGGgq3Xv3EmqDEcVIehg0xUmq_0ytJuGF__poHU3bSgVHo=w448-h796-no" alt="">
 
